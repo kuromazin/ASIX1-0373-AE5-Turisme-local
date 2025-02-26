@@ -168,7 +168,7 @@ footer {
     }
 
     figure {
-        width: 45%; /* Ajusta el ancho de las imágenes en pantallas medianas */
+        width: 45%; 
     }
 }
 
@@ -192,6 +192,6 @@ footer {
     }
 
     figure {
-        width: 100%; /* Las imágenes ocupan todo el ancho en móviles */
+        width: 100%; 
     }
 }
